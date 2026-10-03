@@ -1,1 +1,1 @@
-[![Website Screenshot](https://link-to-your-screenshot.png)](https://poojanm.com.np)
+[![scr_shot](https://poojan.com.np)](https://poojanm.com.np)
